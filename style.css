@@ -1,3 +1,5 @@
+/*CSS code has been placed into HTML file for easing the web rendering on the Github page */
+
 
 body, ul, li, h1 ,h2 ,a{
     margin: 0;
@@ -152,9 +154,7 @@ nav li a:hover{
 form input:focus{
     background-color: rgb(218, 105, 101);
 }
-form input:valid{
-    
-}
+
 section.join p::first-line{
     font-weight: bold;
     font-style: italic;
