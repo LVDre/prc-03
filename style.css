@@ -152,9 +152,7 @@ nav li a:hover{
 form input:focus{
     background-color: rgb(218, 105, 101);
 }
-form input:valid{
-    
-}
+
 section.join p::first-line{
     font-weight: bold;
     font-style: italic;
